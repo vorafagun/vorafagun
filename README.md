@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vorafagun
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I know C++, javascript, OOPS, DBMS and MERN stack
 - 💞️ I’m looking to collaborate on any project that would enhance my skills
 - 📫 You can reach out to me on vorafagun@gmail.com
 
