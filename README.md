@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vorafagun
-- 👀 I’m interested in programming
-- 🌱 I know C++, javascript, OOPS, DBMS and MERN stack
-- 💞️ I’m looking to collaborate on any project that would enhance my skills
-- 📫 You can reach out to me on vorafagun@gmail.com
+Hey there,
+Good to see you here! I am final year engineering student. My main interests are Web Development, Machine Learning, Cloud Computing, DBMS and Operating Systems. C++, Python, Motoko, Javascript are some of the languages I know. 
 
 <!---
 vorafagun/vorafagun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
